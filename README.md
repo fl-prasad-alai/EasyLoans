@@ -11,7 +11,7 @@ EasyLoans is a Node.js + Express.js backend system designed to handle SME/MSME l
 - **MongoDB** (via MongoDB Compass)
 - **Mongoose**
 - **Thunder Client** - for API Calling
-- **dotenv**
+- **dotenv**(.env)
 
 ---
 
