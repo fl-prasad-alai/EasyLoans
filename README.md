@@ -1,4 +1,4 @@
-# 🏦 EasyLoans - SME/MSME Loan Management API
+# 🏦 EasyLoans - MSME/SME Loan Management API
 
 EasyLoans is a Node.js + Express.js backend system designed to handle SME/MSME loan leads and applications. It provides full basic CRUD operations and is connected to a MongoDB database using Mongoose. Data can be tested using Thunder Client inside VS Code.
 
